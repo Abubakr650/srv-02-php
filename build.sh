@@ -18,7 +18,7 @@
 # REPO_URL="https://YOUR_TOKEN@github.com/YOUR_USERNAME/YOUR_REPO.git"
 # REPO_URL="https://oauth2:YOUR_TOKEN@gitlab.com/YOUR_USERNAME/YOUR_REPO.git"
 
-REPO_URL="https://github.com/YOUR_USERNAME/srv-02-php.git"
+REPO_URL="https://github.com/Abubakr650/srv-02-php.git"
 REPO_DIR="srv-02-php"
 DEPLOY_DIR="/var/www/html"
 
